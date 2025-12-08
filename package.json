@@ -1,0 +1,23 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisonmike-19/react-course.git"
+  },
+  "keywords": [],
+  "author": "Aditi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prisonmike-19/react-course/issues"
+  },
+  "homepage": "https://github.com/prisonmike-19/react-course#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
