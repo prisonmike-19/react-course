@@ -2,7 +2,6 @@
   "name": "react-course",
   "version": "1.0.0",
   "description": "learning react",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -19,5 +18,9 @@
   "homepage": "https://github.com/prisonmike-19/react-course#readme",
   "devDependencies": {
     "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
   }
 }
